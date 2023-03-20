@@ -68,7 +68,8 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 100px;
-	margin 5px 15px;
+	margin: 5px 15px;
+	padding: 5px 5px;
 }
 .information p {
 	margin-top; 70px;
